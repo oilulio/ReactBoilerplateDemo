@@ -1,0 +1,56 @@
+body {
+  background-color: #000000;
+  font-family: Arial;
+  font-size: 2vw;
+  color:yellow;
+}
+
+.sameline {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.left {
+  text-align:left;
+}
+
+.right {
+  text-align:right;
+}
+
+.ctr {
+  text-align: center;
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+select {
+   font-size: 2vw;
+}
+
+.mytitle {
+  text-align: center;
+  background: white;
+  color: black;
+  padding: 2vw;
+
+}
+
+.invert {
+  background: white;
+  color: black;
+  text-align:left;
+}
+
+.invertRight {
+  background: white;
+  color: black;
+  text-align:right;
+}
+.invertRightRed {
+  background: white;
+  color: red;
+  text-align:right;
+}
