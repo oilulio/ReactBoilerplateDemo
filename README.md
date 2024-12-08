@@ -7,4 +7,4 @@ Once a force is selected, allows sub selection of a Neighbourhood and retrieves 
 
 Retains list of visited forces and allows reselection.
 
-`npm install` then `npm run dev` or `npm run build` will setup.  Then `serve` will serve on localhost.
+`npm install` then `npm run dev` or `npm run build` will setup.  Then `serve` or `npx serve` will serve on localhost.
